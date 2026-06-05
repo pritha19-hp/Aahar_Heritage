@@ -1,0 +1,6 @@
+{
+  "name": "Aahar Concierge",
+  "description": "Stories. Trails. Taste buds. Connect deeply with the rich heritage, legendary eras, and street corner 'Addas' of Kolkata's legendary culinary history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
